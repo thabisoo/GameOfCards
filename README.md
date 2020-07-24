@@ -1,1 +1,2 @@
 # GameOfCards
+Uses DotNet Core
